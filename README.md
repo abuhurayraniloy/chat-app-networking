@@ -1,1 +1,1 @@
-# chat-app-networking
+# ChatApp
